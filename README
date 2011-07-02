@@ -1,0 +1,51 @@
+___  __ \_____  __________ _____ ________
+__  /_/ /__  / / /___  __ \_  _ \__  ___/
+_  ____/ _  /_/ / __  /_/ //  __/_(__  ) 
+/_/      _\__, /  _  .___/ \___/ /____/  
+         /____/   /_/                    
+===============
+
+Entry in PyWeek #5  <http://www.pyweek.org/5/>
+Team: Pypes
+Members: ME (= Mikle :))
+
+
+DEPENDENCIES:
+
+You might need to install some of these before running the game:
+
+  Python (2.5 recommended):     			http://www.python.org/
+  PyGame:     								http://www.pygame.org/
+  libtiff.dll (usually comes with SDL): 	http://www.libtiff.org/
+
+
+RUNNING THE GAME:
+On Windows or Mac OS X, locate the "run_game.py" file and double-click it.
+Othewise open a terminal / console and "cd" to the game directory and run:
+
+  python run_game.py
+
+
+
+HOW TO PLAY THE GAME:
+
+The game's goal is to make a path between your computer (with a blue keyboard!)
+to the game server (Icon of the game whose level you are on). You do that by
+manually routing the traffic using some parts you found lying around - TWISTED
+cable pairs. 
+When you win or lose you'll get an appropriate response and you'll got to the next level.
+
+Notice each level has a theme about a specific game, and especially the Diablo level
+is cool. The themes are randomized.
+Sometimes you'll get bonuses - like the bonus you'll get for each TWIST in 
+the path you built or the mysterious "time" bonus.
+
+CONTROLS:
+
+Click on places you want to put the current (first on the side) brick in.
+- +			Decrese or increase the time you have left for the level by 5 seconds.
+alt + f4 	Quit
+
+LICENSE:
+http://creativecommons.org/licenses/by/3.0/
+Some assets (like the level background pictures) I can't track the origin of.
